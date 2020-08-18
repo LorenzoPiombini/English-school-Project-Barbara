@@ -1,0 +1,91 @@
+body{
+    background-color:  #e9ecef;
+}
+
+
+/*navbar*/
+
+nav.myset {
+    background-color: #b3e6ff;
+
+}
+
+
+a.ancorStylenav {
+    color: #0000b3;
+
+}
+
+.ancorStylenav:hover {
+    background-color: blue;
+    color: white;
+}
+
+/*####################### section 1####################*/
+.positioningJumbo {
+    text-align: center;
+
+
+
+}
+
+.noMargin {
+    margin-bottom: 0;
+}
+
+h1.jumbostyle {
+    font-size: 105px;
+}
+
+p.lead {
+    font-size: 55px;
+}
+
+.stylespan {
+    color: #ff3333;
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+
+
+/*####################### section 2####################*/
+
+
+div.Section2 {
+    background-color: #b3d1ff;
+    padding: 20px 20px;
+
+}
+
+p.textSection2 {
+    text-transform: uppercase;
+    line-height: 2rem;
+    text-align: justify-all;
+    color: #000099;
+}
+
+div.videoMargin {
+    margin: 0;
+
+}
+
+/*####################### section 3####################*/
+.positioningHeaderSection3{
+    text-align: center;
+}
+.stylingHeader{
+    text-shadow: 2px 2px 3px  #6666ff;
+}
+
+.OnlinestylingHeaderSpanSection3{
+    font-style: italic;
+    text-decoration: underline;
+    color:#ff3333;
+    
+}
+.section3-carousel{
+    margin: 2rem 0 0 0;
+    background-color:  #e9ecef; /* the   same of jumbo tron*/
+}
