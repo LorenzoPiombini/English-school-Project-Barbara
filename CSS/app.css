@@ -3,8 +3,9 @@
   #myset a {
     color: #0000b3; }
     #myset a:hover {
-      background-color: blue;
-      color: white; }
+      color: #0f0fff; }
+      #myset a:hover li {
+        margin: 0.5rem; }
 
 .positioningJumbo {
   text-align: center; }
